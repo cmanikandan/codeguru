@@ -1,7 +1,8 @@
 package effectivejava.chapter2.item2.builder;
 
 // code cloned from https://github.com/cmanikandan/effective-java-3e-source-code/blob/master/src/effectivejava/chapter2/item2/builder/NutritionFacts.java
-
+// Good code from the classic book - "Effective Java" by Joshua Bloch
+//
 // Builder Pattern  (Page 13)
 public class NutritionFacts {
     private final int servingSize;
